@@ -4,7 +4,7 @@ Example Chef Dashboard
 You can spin up a local instance with some dummy data like so:
 
 ```
-rackup
+bundle exec rackup
 ```
 
 and then in a separate terminal:
