@@ -1,3 +1,5 @@
+require 'faraday'
+
 module ChefDashboard
   module Configuration
     module Apps
