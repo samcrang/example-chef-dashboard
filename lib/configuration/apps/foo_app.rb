@@ -16,7 +16,7 @@ module ChefDashboard
           '3.141'
         end
 
-        def actual_version
+        def actual_version(node)
           Faraday.get('http://127.0.0.1:9292/dummy/foo/version').body
         end
       end

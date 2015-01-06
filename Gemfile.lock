@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/samcrang/chef-dashboard.git
-  revision: b21ce76b1d68552ccff2b2e85169b06b45a3ef1f
+  revision: b00240ecde4b00532a06c21254951a61b6485454
   specs:
     chef_dashboard (0.1.0)
       haml
