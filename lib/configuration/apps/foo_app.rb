@@ -12,7 +12,7 @@ module ChefDashboard
           'recipe\\[foo_app\\]'
         end
 
-        def expected_version
+        def expected_version(node)
           '3.141'
         end
 
